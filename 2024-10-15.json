@@ -1,0 +1,26 @@
+{
+  "name": "Jim Hamilton",
+  "age": 18,
+  "address": {
+    "street": "Cahbe Ridge",
+    "city": "Veecero",
+    "state": "CT",
+    "zip": "68035"
+  },
+  "contact": {
+    "phone": "(233) 451-4369",
+    "servicePhone": "800537692"
+  },
+  "birthday": "2003-01-30T02:19:45.281Z",
+  "ip": "56.93.254.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Barorim wuzelpav ti kiafe gepjuno fis jihpulet zi ejaulero wilka ivivo voezigu opegak pi. Rukfojraj bu jacretu beitenu ozaligpuk wurlo wuuhe nigdonka bavodzi amokehab wun les jo laura zawof ozpir. Decci toarcid niudle bufirra uwoogvus odoamibus fafpo caologo leud povisa oge hama ir kihadpal tojaeho mi rog necilran.",
+    "bio": "Da gitpijhag zawweasu ejage neevmo bin eku ne ofani kigik neuradi ni. Jakol lep jabcuja ba ulzokno ezpivsog awa api dali kibmagca webunol ala. Owub rukwaj oku piw itnoawe ih diro omakef pokcucew tid jutirac paga riv. Ben ge dumbuoz gac re no pipfe noto zo rojinke habuhzos oruho ga lihmem joc jeaz fenajota dopewrum. Zacekhe ziul afer asopi awiligev hitek wecriz kesasu aco kivid tizan raz jeb."
+  },
+  "apiKey": "cb453fec365b545ee7862604f0359d09422f6197f3a41c1904234fd7387ea269",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
