@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Sandoval",
+  "age": 60,
+  "address": {
+    "street": "Ofuzet Center",
+    "city": "Wotelana",
+    "state": "RI",
+    "zip": "35310"
+  },
+  "contact": {
+    "phone": "(470) 206-2828",
+    "servicePhone": "800599339"
+  },
+  "birthday": "2006-07-14T07:30:34.075Z",
+  "ip": "206.206.117.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Feas en ozoviga totnifid te ajne gaaz ehorobem vi uhi fenior ragaban ufa. Ok bocfo dav fejsi vajir nitzedel caesorab dozicuho initivot nis paztuv anal saza ebufu kihejeb ciadlag. Hugfez heuma gi mem ru ta ik gicma nihgamej ra uju isa wo cejra.",
+    "bio": "Tafehuav le dacjo ro minmani ikgirud joat ze juome zo jarwo he vidfat adnumej muru durera hutawnoc. Ven fe simu dujuidi dow osiikru jenunbeh raszoses ecuhaf kowuic warpes ivesumul be avo nofpe hoduluner. Leru ikanov popeke de gu jorrum etudo ukesomruz lovwoho gijarcan onpi za kanmouz nak woshucev tas omi etotium."
+  },
+  "apiKey": "36e537289b93d6f3fa38d47a7df7b4ba3135f4d783aa3ae4524a596d76adb9da",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
