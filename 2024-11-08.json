@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Stanley",
+  "age": 32,
+  "address": {
+    "street": "Rokeru Plaza",
+    "city": "Ikijaja",
+    "state": "AK",
+    "zip": "43447"
+  },
+  "contact": {
+    "phone": "(835) 391-6002",
+    "servicePhone": "800924733"
+  },
+  "birthday": "1985-08-10T11:15:11.296Z",
+  "ip": "36.96.89.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Vozurdom zetbef igdulliv joradtov aridozo lus litsu pi esa su hutje ris. Rinenidu simheci otiogpu ih oc evacugbu bos fegav nev laiw cubca ecobigdic. Me ciufo bunow duhma wupuc ed aza fer dahtis sulo apole tecuchu.",
+    "bio": "Poj wisep daf bajuzez ep ho bivfe azetog hu gublo zukap huig. Mode ze ozi tafubal wobi odejiil sub rahih buehefuf natpewlu valurime opu pap. Nusekja muj danahu tid ugcul livfobjaf zivhedug iw ekhiv pa igavu ubfidi punodle kiz."
+  },
+  "apiKey": "52c3a96bb8aa4e6f330f0ad40d6f6c3030776ecffb3b283dcd7ad36b6805b744",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
