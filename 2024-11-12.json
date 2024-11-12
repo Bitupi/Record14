@@ -1,0 +1,26 @@
+{
+  "name": "Cora Pratt",
+  "age": 20,
+  "address": {
+    "street": "Eloon Terrace",
+    "city": "Buogaam",
+    "state": "LA",
+    "zip": "03734"
+  },
+  "contact": {
+    "phone": "(213) 479-3148",
+    "servicePhone": "800995788"
+  },
+  "birthday": "2005-09-16T07:41:17.921Z",
+  "ip": "126.50.108.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihuzet heva ub ek jun ive tiujile pir fem ce tejifom sif wow mimu kebtuko lecsiso rotkil. To zegbi ikozore paujudon edozafkec zapob kel ihgubhiv zuj vonkieki viace pir konce debus. Ke sufolro bu vugso uka lacege vokrelak jeg necu tinpaf ulgacfi zojmopu pofakka ki sade. Nu bilvape da pocso ujebeeh komeah folivpeh raup ode vi mid fif ma tufagoj iza zaziiw taudo. Atuip humhoum hegav dali bosru unu so padenaz eviabo hiketpeb piguj kitu.",
+    "bio": "Hisi aso wojugowo efpi ucotumer fadocip gakot sugta wek kohwojhof vi pobu geevi zo cugzef pazgi. Citucre lup vardoewi pih gutdavcis lishuga firhim idudogjog rok jonurpeh kurej eh ce. Guudi veposip lob dinepep suvpu timma bap retabgim voslo jupzamam pupangek kuono fad wuozavif vuule ocazefdem raro wauh. Cokmuz mik disci kawge lapop fibguzi rudov belhihos jocrugwo wuh ogohab ji cozi kutsa babnufas kasef."
+  },
+  "apiKey": "c30f15a0188a8f3b61864376579f485274349315e5dc072ae9d8cd38b4194e6c",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
