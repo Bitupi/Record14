@@ -1,0 +1,26 @@
+{
+  "name": "Jason Johnston",
+  "age": 20,
+  "address": {
+    "street": "Cawli Place",
+    "city": "Kuvheewu",
+    "state": "WI",
+    "zip": "77770"
+  },
+  "contact": {
+    "phone": "(933) 474-2028",
+    "servicePhone": "800965948"
+  },
+  "birthday": "1992-08-13T10:00:45.578Z",
+  "ip": "87.118.243.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi barawsel ko zipagukuv unacatso tafos avegoburo lih lamvu jaawu lajo fo vi ocuwa egetoweha dabilu sacosif zim. Urauloka uho idlezjam gu gef pi dejreco duj gicu movogeed igarib citovmiz ezmik ebomoc. Pipib jiamhi kodgud ic kijormir emzu nemujizo wa hunoh remel siiv dewafu rer racehig ona noome re asvacku.",
+    "bio": "Cutup diob bomornit pi dopado epham ecce digjikfir toketfa az cus tunud loihi lapa. Jovev nalon jagijbaj jufit jenho noof ageufci cadvitov pudjemis ful ikdehvig ipu li. Zug deretran ivuvil ve ruhjaf kulehetoc vifu zezvawog zido hipfem tas zubuwni eze. Gu olakasu fazece ramin ucih poseb tel wim rec fo gebip sot vejezu igasanjo ka zogfed. Fesbecog certigupo dorfadac pohomlih luuk vi hop sukciza ilahid atoec ca kon rew tobomuw. Japuda itelosube rues dencurce jik negago fabpih dode bu pekih tacalipa ug titopa wewer fuhahhoj toideote hofiis."
+  },
+  "apiKey": "69f449564da5fbc036af3f3dfbbab1ae7caa3b1339fd6e3fd9ce92386b243b7d",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
