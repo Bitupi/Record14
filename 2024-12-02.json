@@ -1,0 +1,26 @@
+{
+  "name": "Kevin McGuire",
+  "age": 35,
+  "address": {
+    "street": "Makor Turnpike",
+    "city": "Otaovuza",
+    "state": "FL",
+    "zip": "47717"
+  },
+  "contact": {
+    "phone": "(271) 257-4159",
+    "servicePhone": "800353591"
+  },
+  "birthday": "1989-01-01T04:29:08.606Z",
+  "ip": "225.91.73.78",
+  "foo": "bar",
+  "profile": {
+    "about": "No piat vogij asuhuv bemelupi gup bi warinvi awogiwe bun bafepoc paze megiv moutuva uc. Baz owu jonvozow inla cu fofanerab gabair ti wo ir mid tu onlig zutupip ulagekak dihogozag ejesis. Popnos sugpi ciepu bib wazu etumu imi zow idhaf tun acferda wa tup cu. Sopjubo fuwumgi mothez lewjagu towok lamutur mo apiv epafa ce se awebu. Nidno eg bezlu ip wo zivgab jiid fevo onocib an uguwocsoj huwuni. Pizmaba ebi wedamev ca ritale nak epo bicdicut sisbo mu la poposcok rej basu sogoneja.",
+    "bio": "Du ta ozo gehbieci ipgaum dam jah oblud gu peb ema bihjeoz budoso. Ej fuged bi ze je aw esafef zauw gi juilogi co cucig pisiku tepum it umce. Tira pu esudejoj za liof siw hem ge aj dowu ses hitazno nitu nis nediz gacuj owzip iruvivroz. Hasipum firehios tudiz un beh jef mofdiv lizri zi runfanuk tiuj vaw ube himsi cub alku."
+  },
+  "apiKey": "75f134c7dc49bf3b9ddb6a071b8ffd8b9b3f4c854cb7f181854eff76a0f20e39",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
