@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Rogers",
+  "age": 35,
+  "address": {
+    "street": "Gizza Parkway",
+    "city": "Kampuko",
+    "state": "MN",
+    "zip": "52604"
+  },
+  "contact": {
+    "phone": "(581) 250-2752",
+    "servicePhone": "800967157"
+  },
+  "birthday": "1981-11-26T05:28:27.910Z",
+  "ip": "147.200.51.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibane jobjeta ajwab gukaruc re budon falkopme uwlider wulopvam sa ke mezregzar jajhidku cumzog vudulub tetav zi. Bu behu buv abver uwa ju otebegbet nekgeavu zami sa hisceib va buomfo. Bon jek jifunmuk fuwcuguv wabe arni eho cu ozeazeifo kof hilpid akzo newojli.",
+    "bio": "Rebzu ohenijepe jiner ufienvi sukgelu gipfeguc po jugka rirusa re mu hub. Vujvod ondono hituiw vub echebame ovi titiz kaf bebevhu nevwofoj piesi zu baijado odim. Dirku biklablo ger vig ni fuwiw obkap lohacsi uf podkik wemdid rudes lemzupip mukugi fef desurton. Newatedev iwa ji codiwe tetguldul begge licji jujdi ce sot gaub fechahi cubeprej hofehzi netfep teosone cuase."
+  },
+  "apiKey": "4112589a59eaf15630a4023fefec3f8bdb3f01dd454ddab4eba53911c1304be6",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
