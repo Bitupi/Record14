@@ -1,0 +1,26 @@
+{
+  "name": "Alan Watts",
+  "age": 65,
+  "address": {
+    "street": "Fude Highway",
+    "city": "Efoomtu",
+    "state": "WI",
+    "zip": "38740"
+  },
+  "contact": {
+    "phone": "(701) 733-8163",
+    "servicePhone": "800174847"
+  },
+  "birthday": "1994-12-29T08:03:49.750Z",
+  "ip": "201.173.27.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi te irarecjun ralha mi opmo sicigwu ran ti mic tudvocwiv das ohimi huhzole rugon akecemnit. Rijcolip moevi tonaga tenokire denemvu vakheas muomi fuodbo batkiuc ja fon oza faiva okkacu nesujma ereolezil. Pikoco jimid obuti adovugtaz zespa fenu fema savob lauzbas hivjauli sit hahlen zafeniv umogav lappa. Pikut ur en lol ruvvawezu kuwpan dapevi leguz fos wod caifi caz lu nogrigra. Kurlor pook howozop na ivuisopu kukpo esace to goru apanacof lu nupeacu ibe wokgeune. Fe usaego guwigwi vis ukemen kez waila saeni wajfius vizfare oji pe evuteg.",
+    "bio": "Ec ze sih wume ora nanmiton jid hecdav ocbibwe rawe wiv ojgij reveb. Ajoewulu ucjib pu jogahzo loj enruw beeve se isazueh gohzu bu tarfe wo ve. Noposav jate cullekiga wuez fikek gelud nog reiv vame terahujub rogme zu."
+  },
+  "apiKey": "d91134e304c8439a9cc3a4173af6d7b59c4c338e8e585c99f9575da7094dc673",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
