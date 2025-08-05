@@ -1,0 +1,25 @@
+{
+    "name": "Charles Scott",
+    "age": 6,
+    "address": {
+        "street": "Samantha Road",
+        "city": "West Kyleshire",
+        "state": "Texas",
+        "zip": "15487"
+    },
+    "contact": {
+        "phone": "438-345-7796x9486",
+        "servicePhone": "800223748"
+    },
+    "birthday": "2019-01-12",
+    "ip": "32.77.105.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner force view place coach someone. Draw everyone image say. President which technology hotel available.",
+        "bio": "Clear weight policy sense develop. Democrat federal size challenge to top."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
