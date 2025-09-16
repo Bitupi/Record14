@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Jones",
+    "age": 16,
+    "address": {
+        "street": "Jordan Isle",
+        "city": "Ochoaborough",
+        "state": "Rhode Island",
+        "zip": "37781"
+    },
+    "contact": {
+        "phone": "+1-625-486-3090",
+        "servicePhone": "800239212"
+    },
+    "birthday": "2009-09-09",
+    "ip": "182.25.54.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant responsibility father risk. Table quickly particularly meet billion PM language artist. East agency protect head deep evening move claim.",
+        "bio": "Affect mission whatever mean box. Lose hour agent kitchen. Beautiful arm me mind conference seat.\nEstablish though head hope its painting trip. List recognize pass nation tough enough though."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
