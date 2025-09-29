@@ -1,0 +1,25 @@
+{
+    "name": "Steven Roman",
+    "age": 109,
+    "address": {
+        "street": "Smith Circle",
+        "city": "West Jasonville",
+        "state": "Illinois",
+        "zip": "53345"
+    },
+    "contact": {
+        "phone": "515.888.0980x525",
+        "servicePhone": "800336531"
+    },
+    "birthday": "1916-10-10",
+    "ip": "11.72.80.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Her name real certain able magazine.\nTo research approach skin follow popular offer recognize. General car body study similar nothing central.",
+        "bio": "Mention single shake sit environmental court. Response form series speech its however power."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
