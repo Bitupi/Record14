@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Brown",
+    "age": 97,
+    "address": {
+        "street": "Dawson Forest",
+        "city": "West Mollymouth",
+        "state": "Vermont",
+        "zip": "02820"
+    },
+    "contact": {
+        "phone": "670.703.0498x417",
+        "servicePhone": "800251825"
+    },
+    "birthday": "1928-23-08",
+    "ip": "10.55.141.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Back could within continue most. Other admit sign chair whose.\nYear wind network finally. His score sound loss among.\nWho heavy way popular ground. Day word I reach government current.",
+        "bio": "Realize common take since call.\nRoom road arm west person scene. Western spend at necessary. Gas best everyone Democrat."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

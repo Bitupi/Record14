@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Mays",
+    "age": 12,
+    "address": {
+        "street": "Ronald Crescent",
+        "city": "North Hannahshire",
+        "state": "Wisconsin",
+        "zip": "82242"
+    },
+    "contact": {
+        "phone": "+1-411-740-1253x368",
+        "servicePhone": "800103449"
+    },
+    "birthday": "2013-06-12",
+    "ip": "176.39.234.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch investment moment maintain against center capital. Increase social threat guy ahead record part of. Note already ball same myself.\nHair officer participant.",
+        "bio": "Program financial chair firm goal. Whose miss prove final try recognize analysis. Try Mr science even.\nOffer create finally bank point. Which management walk."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Evan Nguyen",
+    "age": 33,
+    "address": {
+        "street": "Christopher Roads",
+        "city": "Stewartchester",
+        "state": "Nebraska",
+        "zip": "26297"
+    },
+    "contact": {
+        "phone": "001-605-360-5039x716",
+        "servicePhone": "800275409"
+    },
+    "birthday": "1992-02-05",
+    "ip": "58.162.5.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Around audience accept when. Reveal week happy turn.\nEnjoy involve gas up. Land through see color money put. Clearly current exist score baby but.",
+        "bio": "Allow break food research. System fast world establish.\nSuch can writer meet city space. Miss other administration place public. Car increase sea available section."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
