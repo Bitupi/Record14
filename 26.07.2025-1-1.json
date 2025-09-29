@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Mckenzie",
+    "age": 17,
+    "address": {
+        "street": "Savage Village",
+        "city": "Rhondastad",
+        "state": "West Virginia",
+        "zip": "60214"
+    },
+    "contact": {
+        "phone": "+1-593-722-8541x367",
+        "servicePhone": "800915476"
+    },
+    "birthday": "2008-07-05",
+    "ip": "9.52.105.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Including main account debate.\nSign before example series. The where security night. Affect relate behavior rich organization rate rise.",
+        "bio": "City at short thousand national goal item game. Reason media raise community human back during. Third life difficult space over game tax."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
