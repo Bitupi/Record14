@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Bell",
+    "age": 26,
+    "address": {
+        "street": "Lawrence Lodge",
+        "city": "South Heidi",
+        "state": "Iowa",
+        "zip": "66518"
+    },
+    "contact": {
+        "phone": "(200)564-3050",
+        "servicePhone": "800677759"
+    },
+    "birthday": "1999-31-01",
+    "ip": "73.14.139.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful hour politics at anyone. Company none skill improve claim girl. Head board important.",
+        "bio": "Later create while myself seek local. Base nation success point analysis meeting.\nLittle music plant. Service beat subject report modern future. Consider race leg improve office evidence."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

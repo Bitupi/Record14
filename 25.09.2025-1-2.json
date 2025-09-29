@@ -1,0 +1,25 @@
+{
+    "name": "Megan Brown",
+    "age": 41,
+    "address": {
+        "street": "Paige Prairie",
+        "city": "West Rodneyland",
+        "state": "Nevada",
+        "zip": "91559"
+    },
+    "contact": {
+        "phone": "838-410-5903",
+        "servicePhone": "800984077"
+    },
+    "birthday": "1984-23-02",
+    "ip": "109.241.124.5",
+    "foo": "bar",
+    "profile": {
+        "about": "World role pull attention. Impact and mother include. Anyone physical television parent save.\nReach manager physical break blood article hand. Test only among support fund.",
+        "bio": "Little meeting answer blood foreign prepare produce. Decade newspaper prepare do make popular difficult religious."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
