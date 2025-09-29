@@ -1,0 +1,25 @@
+{
+    "name": "Heather Hernandez",
+    "age": 24,
+    "address": {
+        "street": "King Hollow",
+        "city": "Deborahville",
+        "state": "Rhode Island",
+        "zip": "42800"
+    },
+    "contact": {
+        "phone": "813-794-3100x7631",
+        "servicePhone": "800889618"
+    },
+    "birthday": "2001-09-07",
+    "ip": "120.170.27.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Although site moment person within the letter call. Fine why his pattern oil child. Lawyer power woman authority create each.",
+        "bio": "Police pressure particularly. Claim up professor anyone line election side. Offer beat assume wonder world trip."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
