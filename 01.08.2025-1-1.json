@@ -1,0 +1,25 @@
+{
+    "name": "William Wilson",
+    "age": 99,
+    "address": {
+        "street": "Clark Courts",
+        "city": "Hillbury",
+        "state": "Rhode Island",
+        "zip": "35213"
+    },
+    "contact": {
+        "phone": "441-261-2926x2299",
+        "servicePhone": "800090283"
+    },
+    "birthday": "1926-23-04",
+    "ip": "216.168.213.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept approach act surface poor. Shake window account security move he. Need art perhaps according visit.",
+        "bio": "Write surface mean possible tax computer. Million prepare process responsibility.\nChance capital quickly role. End federal upon pass. The blood significant ability assume nature."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
