@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Lambert",
+    "age": 87,
+    "address": {
+        "street": "Alexander Valleys",
+        "city": "Watsonborough",
+        "state": "Colorado",
+        "zip": "11610"
+    },
+    "contact": {
+        "phone": "797-222-6185x453",
+        "servicePhone": "800460037"
+    },
+    "birthday": "1938-10-09",
+    "ip": "143.99.245.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Throughout either fact group. Upon kid letter catch tax power exactly.\nWait fear data as despite human structure.\nGo themselves sort type sound shoulder arrive. Page trial authority.",
+        "bio": "Administration reason laugh behavior paper turn size. Always law story into since cost service.\nCourt fear great what result. Item law hold report plan material."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
