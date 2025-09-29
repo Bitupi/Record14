@@ -1,0 +1,25 @@
+{
+    "name": "Lori Welch",
+    "age": 37,
+    "address": {
+        "street": "Vaughn Orchard",
+        "city": "North Blake",
+        "state": "Missouri",
+        "zip": "43789"
+    },
+    "contact": {
+        "phone": "(292)917-2916x502",
+        "servicePhone": "800820699"
+    },
+    "birthday": "1988-07-01",
+    "ip": "36.123.108.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband into process second police first media. His various teacher agreement send. Speak southern language. That person change happen charge item former interesting.",
+        "bio": "Pretty expert share throughout protect sister.\nWorry quite upon military teacher reality game. Run author medical true. Chair lose trade bank although relationship difficult."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
